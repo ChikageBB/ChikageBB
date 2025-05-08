@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 * * * *" }]  # обновление раз в час
-  workflow_dispatch:                # возможность вручную запустить
+  schedule: [{ cron: "0 0 * * *" }]  # обновление каждый день в полночь по UTC
+  workflow_dispatch:                # возможность запустить вручную
 
 jobs:
   github-metrics:
