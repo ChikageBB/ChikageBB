@@ -1,12 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
-<!-- GitHub Profile Metrics -->
-[<img align="center" width="100%" src="https://github.com/ChikageBB/ChikageBB/blob/main/github-metrics.svg" alt="GitHub Metrics">](https://github.com/ChikageBB)
-
-<!-- Snake Contribution Animation -->
-![Snake animation](https://raw.githubusercontent.com/ChikageBB/ChikageBB/output/github-contribution-grid-snake.svg)
-
 
 <!--
 <h1 align="center">Hi there, I'm Roman
