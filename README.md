@@ -1,25 +1,76 @@
+<h1 align="center">Hi 👋, I'm ChikageBB</h1>
+<h3 align="center">Java Backend Developer ☕</h3>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Engineer;Microservices+Developer;Telegram+Bot+Developer&center=true&width=500&height=50">
+</p>
 
+---
 
-![Metrics](https://raw.githubusercontent.com/ChikageBB/ChikageBB/main/github-metrics.svg)
+### 🧠 About Me
 
-<!--
-<h1 align="center">Hi there, I'm Roman
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia 🇷🇺</h3>
--->
-<!--
-**ChikageBB/ChikageBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Java Backend Developer
+* ⚙️ Spring Ecosystem (Boot, Security, Data)
+* 🧩 Microservices & Messaging (RabbitMQ)
+* 🤖 Telegram Bots
+* 📚 Exploring: Spring AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,rabbitmq,docker,git,python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen" />
+  <img src="https://img.shields.io/badge/Spring%20Security-Security-green" />
+  <img src="https://img.shields.io/badge/Spring%20Data-JPA-blue" />
+  <img src="https://img.shields.io/badge/Liquibase-Migrations-red" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue" />
+  <img src="https://img.shields.io/badge/Redis-Cache-red" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-orange" />
+  <img src="https://img.shields.io/badge/Python-Basic-yellow" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChikageBB&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChikageBB&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ChikageBB&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Focus
+
+* High-load backend systems
+* Secure APIs (Spring Security)
+* Event-driven architecture
+* Microservices
+
+---
+
+### 📫 Contact
+
+* Telegram: @ChikageBB
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChikageBB&color=blue" />
+</p>
